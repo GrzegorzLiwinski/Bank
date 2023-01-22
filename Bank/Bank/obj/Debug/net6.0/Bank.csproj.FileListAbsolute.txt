@@ -1,0 +1,5 @@
+C:\Users\eleon\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.csproj.AssemblyReference.cache
+C:\Users\eleon\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleon\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfoInputs.cache
+C:\Users\eleon\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.AssemblyInfo.cs
+C:\Users\eleon\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CoreCompileInputs.cache
