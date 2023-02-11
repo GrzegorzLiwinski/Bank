@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eleon\\source\\repos\\Bank\\Bank\\Bank.csproj": {}
+    "C:\\Users\\eleon\\Desktop\\bank\\bank\\bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eleon\\source\\repos\\Bank\\Bank\\Bank.csproj": {
+    "C:\\Users\\eleon\\Desktop\\bank\\bank\\bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eleon\\source\\repos\\Bank\\Bank\\Bank.csproj",
-        "projectName": "Bank",
-        "projectPath": "C:\\Users\\eleon\\source\\repos\\Bank\\Bank\\Bank.csproj",
+        "projectUniqueName": "C:\\Users\\eleon\\Desktop\\bank\\bank\\bank.csproj",
+        "projectName": "bank",
+        "projectPath": "C:\\Users\\eleon\\Desktop\\bank\\bank\\bank.csproj",
         "packagesPath": "C:\\Users\\eleon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eleon\\source\\repos\\Bank\\Bank\\obj\\",
+        "outputPath": "C:\\Users\\eleon\\Desktop\\bank\\bank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

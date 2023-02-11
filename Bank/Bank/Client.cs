@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bank
+namespace BankApp
 {
     internal class Client
     {
@@ -23,7 +23,7 @@ namespace Bank
             this.amount = amount;
         }
 
-        public List<Client> createUsers()
+        public static List<Client> CreateUsers()
         {
             List<Client> clients = new List<Client>();
             clients.Add(new Client(1, "Jan", "Nowak", "001", 1457.23m));
